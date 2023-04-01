@@ -1,3 +1,5 @@
+[Тестовое задание](https://github.com/nikiforov-org/smartik/blob/main/task.md)
+
 # Бэкенд
 Используем очереди и события.
 
